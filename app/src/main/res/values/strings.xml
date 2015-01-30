@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMICalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="editMessage">MY BMI</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="resultText">"Your BMI is : "</string>
+    <string name="English">English Unit(Pound/Inch)</string>
+    <string name="Metric">Metric Unit(Kg/meter)</string>
+    <string name="bmivalue">BMI VALUES</string>
+    <string name="underweight">Underweight: less than 18.5</string>
+    <string name="normal">Normal: between 18.5 and 24.9</string>
+    <string name="overweight">Overweight: between 25 and 29.9</string>
+    <string name="obese">Obese: 30 or greater</string>
+    <string name="zero">0.0</string>
+
+</resources>
